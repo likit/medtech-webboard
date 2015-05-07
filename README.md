@@ -1,2 +1,2 @@
-# medtech-ieqa
-A system for intelligent external medical laboratory quality assessment.
+# Medtech Webboard
+A webboard for collective knowledge in medical technology in Thailand and ASEAN.
